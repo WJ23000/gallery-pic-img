@@ -11,6 +11,7 @@ git remote add origin https://github.com/WJ23000/gallery-pic-img.git
 git push -u origin master
 
 
+
 生成gh-pages分支步骤：
 
 1、将远程仓库克隆到本地：
